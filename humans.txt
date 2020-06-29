@@ -3,13 +3,13 @@
 
 # TEAM
 
-<<<<<<< HEAD
+
     <name> Rajib Banerjee <twitter>
-=======
+
     <name> Rajib Banerjee -- <twitter>
 	banerjee_rajib@yahoo.com	
 	Learning Devops
->>>>>>> develop
+
 
 # THANKS
 
@@ -19,4 +19,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAK
-	Changing from Master Branch
+
