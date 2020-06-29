@@ -6,6 +6,7 @@
     <name> Rajib Banerjee -- <twitter>
 	banerjee_rajib@yahoo.com	
 	Learning Devops
+	Merge conflict checking
 
 # THANKS
 
@@ -15,3 +16,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAK
+	Devops added
