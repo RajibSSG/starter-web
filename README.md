@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 ## GIT Comparisons
 Adding GIT comparisons lecture
 Adding GIT rebase lecture
+Adding futher GIT rebase checking
 ## Contributions
 Fork the repository and raise pull request for review - Auto merge 
 
