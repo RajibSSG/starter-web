@@ -13,7 +13,7 @@
 
 # THANKS
 
-    <name>
+    Rajib Banerjee - GIT Rebase checking
 
 # TECHNOLOGY COLOPHON
 
