@@ -9,6 +9,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 ## GIT Comparisons
 Adding GIT comparisons lecture
+## Contributions
+Fork the repository and raise pull request for review - Auto merge 
 
 ### GIThub Comparisons
 Comparison with Github repository
