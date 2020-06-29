@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Rajib Banerjee -- <twitter>
+	banerjee_rajib@yahoo.com	
+	Learning Devops
 
 # THANKS
 
