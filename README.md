@@ -16,3 +16,4 @@ Fork the repository and raise pull request for review - Auto merge
 
 ### GIThub Comparisons
 Comparison with Github repository
+Adding new lectures for GIT Stash
