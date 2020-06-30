@@ -5,7 +5,7 @@ This is a GIT project which we are using as a sample project - RB - added 2nd ti
 This repository is for showing how Git and GitHub work
 
 ## Purpose
-
+A lot of lectures are still coming on.
 Sample website with plenty of files for demos
 ## GIT Comparisons
 Adding GIT comparisons lecture
