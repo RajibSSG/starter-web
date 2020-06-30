@@ -9,12 +9,16 @@
     <name> Rajib Banerjee -- <twitter>
 	banerjee_rajib@yahoo.com	
 	Learning Devops
+<<<<<<< HEAD
 	
 Hi, I am modifying the file before Rebase
 
 Hi, I am modifying the file again before Rebase from Master branch
 
 Hi doing some changes in local after pushing to remote repository
+=======
+Hi, I am modifying the file before Rebase from mybranch
+>>>>>>> mybranch
 
 # THANKS
 
